@@ -18,7 +18,7 @@
 
 ## 插件一:DPSMate ##
 * 文件名：zhCN_DPSMate.lua 
-* 原作者地址：https://github.com/Darkmiao/DPSMate
+* 原作者地址：https://github.com/Geigerkind/DPSMate
 
 
 
