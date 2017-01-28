@@ -6,7 +6,7 @@
 * 把zhCN.lua放在插件目录下的localization文件夹中
 * 在xxx.toc文件中添加localization/zhCN.lua命令
 
-## 英文端的插件显示中文的方案 How to make addons show chinese while using en_client ##
+## 英文端的插件显示中文的方案 How to show chinese while using en_client ##
 * 把enUS_xxx.lua更名为enUS.lua
 * 把enUS.lua放在插件目录下的localization文件夹中，替换已有文件(注意备份)
 
