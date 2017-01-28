@@ -1,6 +1,6 @@
 -- Translated by Chargemiao from Covenant
 
-if (GetLocale() == "zhCN") then
+if (GetLocale() == "enUS") then
 	DPSMate.L["name"] = "DPSMate输出助手"
 	DPSMate.L["popup"] = "请问您需要重置DPSMate么?"
 	DPSMate.L["memory"] = "DPSMate收集了大量数据，储存数据的过程可能会让您屏幕卡帧。请问您是否需要重置DPSMate?"
